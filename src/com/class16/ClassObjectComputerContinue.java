@@ -6,7 +6,7 @@ public class ClassObjectComputerContinue {
 		// TODO Auto-generated method stub
 ClassAndObjectComputer computer=new ClassAndObjectComputer();
 computer.brand="Apple";
-computer.keyboard="True";
+computer.keyboard=true ;
 computer.name="MacBook";
 
 computer.ram=36;
