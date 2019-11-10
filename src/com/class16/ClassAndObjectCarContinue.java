@@ -26,7 +26,7 @@ ClassAndObjectCar car1=new ClassAndObjectCar();
 	
 	
 	System.out.println("I have"+car1.color+car1.make);
-	System.out.println("I Drive " +car2.make+car2.year);
+	System.out.println("I Drive "+car2.make+car2.year);
 	}
 
 }
