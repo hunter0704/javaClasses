@@ -40,6 +40,9 @@ public class ClassObjectTask2 {
        
 		dog1.bark();
 		dog1.eat();
+		
+		dog2.bark();
+		dog2.eat();
 	}
 
 }
