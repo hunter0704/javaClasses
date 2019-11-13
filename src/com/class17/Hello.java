@@ -49,7 +49,7 @@ void sayNameAndage( String name,int age) {
 void isSnowing(boolean isSnowing) {//method header
 	//method body
 	if(isSnowing) {
-		System.out.println(" Stay At Home");
+		System.out.println("Stay At Home");
 	}
 	else {
 		System.out.println("Go For Walk");
