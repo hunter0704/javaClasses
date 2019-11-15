@@ -28,6 +28,7 @@ public class MethodWithReturnValue {
     int large=obj1.findLargest(20, 40);
     System.out.println(large);
 	}
+// return type, method name (list of parameters)
  int sum(int num1,int num2) {
 	 int c=num1+num2;
 	 return c;
