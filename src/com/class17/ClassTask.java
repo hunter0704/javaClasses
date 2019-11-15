@@ -15,6 +15,7 @@ public class ClassTask {
 	}
 	//Crete a method that will take 2 parrameters as numbers is large
 	// print the large number 
+	// when we call methood we pass value=argument
 void largeNumber(int a,int b) {
 	if (a>b) {
 		System.out.println( a+" is the largest number");
