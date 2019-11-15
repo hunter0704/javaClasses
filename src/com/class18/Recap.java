@@ -13,6 +13,7 @@ public class Recap {
 		}
 	}
 	// create methods to say something number of times
+	//parameter come with order we can not switch it 
 	void saySomething(String word,int times) {
 		for (int i=0;i<times;i++) {
 			System.out.println(word);
