@@ -43,8 +43,39 @@ boolean isOdd(int num) {
 		isOdd=false;
 	}
 	return isOdd;
-	}
+
+}
+//ethod will take a week a week day number and return
+//a week day name
+String weekDayName(int weekDay) {
+	String weekDayname = " ";
+	switch(weekDay) {
+	case 1:
+		weekDayname="Monday";
+		break;
+	case 2:
+		weekDayname="Tuesday";
+		break;
+	case 3:
+		weekDayname="Wendsday";
+		break;
+	case 4:
+		weekDayname="Thursday";
+		break;
+	case 5:
+		weekDayname="Friday";
+		break;
+	case 6:
+		weekDayname="Saturday";
+		break;
+	case 7:
+		weekDayname="Sunday";
+		break;
+}
+	return weekDayname;
+
+
 }
 
-
+}
 
